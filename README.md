@@ -8,3 +8,5 @@ Cambio propuesto
 Indice
 1. Introducción
 2. Estado del arte
+3. Estudio de viabilidad
+4. Implementación
