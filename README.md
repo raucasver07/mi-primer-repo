@@ -4,3 +4,7 @@ Este proyecto sirve para practicar Git.
 Instraucciones pendientes.
 Seccíon añadida por error, con contenido incorrecto
 Cambio propuesto
+
+Indice
+1. Introducción
+2. Estado del arte
